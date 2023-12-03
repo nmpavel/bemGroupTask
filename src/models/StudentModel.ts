@@ -34,6 +34,11 @@ export const dummyData: Student[] = [
             totalMarks: 100,
             obtainedMarks: 95
         },
+        {
+            name: "Total Marks",
+            totalMarks: 300,
+            obtainedMarks: 245
+        },
     ]
   },
   {
@@ -57,6 +62,11 @@ export const dummyData: Student[] = [
             totalMarks: 100,
             obtainedMarks: 95
         },
+        {
+            name: "Total Marks",
+            totalMarks: 300,
+            obtainedMarks: 245
+        },
     ]
   },
   {
@@ -79,6 +89,11 @@ export const dummyData: Student[] = [
             name: "Math",
             totalMarks: 100,
             obtainedMarks: 95
+        },
+        {
+            name: "Total Marks",
+            totalMarks: 300,
+            obtainedMarks: 245
         },
     ]
   }
